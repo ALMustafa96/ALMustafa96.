@@ -1,2 +1,2 @@
-### 📊 GitHub Stats:
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALMustafa96.&show_icons=true&theme=radical)
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALMustafa96&theme=radical&background=0d1117)
